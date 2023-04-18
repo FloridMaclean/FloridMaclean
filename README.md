@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Florid Maclean.</h1>
-<h3 align="center">A Passionate Full Stack Developer!</h3>
+<h2 align="center">Hi 👋, I'm Florid MacLean.</h2>
+<h4 align="center">An experienced and passionate Full Stack Developer!</h4>
 
 - 🔭 I’m currently working on a **Website project for an Events Organizer company in London, ON.**
 
