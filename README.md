@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact **Still starting my first program as `Hello World!` for newly learned languages!**<br/><br/>
 
-![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif) 
-
 ## 💻 Tech Stack:
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
