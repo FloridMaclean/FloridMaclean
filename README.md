@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **floridmaclean@gmail.com**
 
-- ⚡ Fun fact **Still starting with `Hello World!` programs for newly learned languages!**<br/><br/>
+- ⚡ Fun fact **Still starting my first program as `Hello World!` for newly learned languages!**<br/><br/>
 
 ## 💻 Tech Stack:
 #### Languages
