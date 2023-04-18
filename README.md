@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Still starting my first program as `Hello World!` for newly learned languages!**<br/><br/>
 
+![gif](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)
+
 ## 💻 Tech Stack:
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
