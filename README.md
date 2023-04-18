@@ -26,9 +26,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
-#### JAVA Framework/Library
+#### JAVA Framework/Library/Tools
 ![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-000?style=for-the-badge&logo=Apache%20Maven)
 
 #### Python Framework/Library
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
@@ -37,7 +38,7 @@
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/redux-?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
 
 #### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
@@ -50,6 +51,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Miro](https://img.shields.io/badge/-Miro-000?style=for-the-badge&logo=miro)
 ![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
+![Thymleaf](https://img.shields.io/badge/-Thymeleaf-000?style=for-the-badge&logo=thymeleaf)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
 #### Database/State
