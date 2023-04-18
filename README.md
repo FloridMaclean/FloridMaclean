@@ -30,10 +30,10 @@ if (codeWorking) {
 // - Florid Maclean
 ```
 
-# 📊 GitHub Stats:
+# 📊 Current GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FloridMaclean&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FloridMaclean&theme=yeblu&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FloridMaclean&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=FloridMaclean&theme=radical&no-frame=true&no-bg=false&margin-w=4)
