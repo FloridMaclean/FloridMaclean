@@ -19,6 +19,17 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/florid-maclean/)   [![LinkedIn](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://floridmaclean.github.io/portfolio.io/)   [![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/florid_maclean)<br/><br/>
 
+``` java
+if (codeWorking) {
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            } else {
+              System.out.println('Happy path in development!');
+            }
+        }
+// - Florid Maclean
+```
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FloridMaclean&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FloridMaclean&theme=yeblu&hide_border=false)<br/><br/>
@@ -26,8 +37,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FloridMaclean&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
