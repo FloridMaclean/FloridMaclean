@@ -37,7 +37,7 @@
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/redux-?style=for-the-badge&logo=redux)
 
 #### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
