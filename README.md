@@ -98,7 +98,9 @@
 ![Jira](https://img.shields.io/badge/jira-000?style=for-the-badge&logo=jira)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/florid-maclean/)   [![LinkedIn](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me)](https://floridmaclean.github.io/portfolio.io/)   [![LinkedIn](https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree)](https://linktr.ee/florid_maclean)<br/><br/>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)(https://linkedin.com/in/florid-maclean/)
+![LinkedIn](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me)(https://floridmaclean.github.io/portfolio.io/)
+![LinkedIn](https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree)(https://linktr.ee/florid_maclean)<br/><br/>
 
 ``` java
 if (codeWorking) {
