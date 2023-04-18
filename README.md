@@ -93,7 +93,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
 
-#### Documentation/SCRUM/Kanban
+#### Documentation/SCRUM
 ![Confluence](https://img.shields.io/badge/confluence-000?style=for-the-badge&logo=confluence)
 ![Jira](https://img.shields.io/badge/jira-000?style=for-the-badge&logo=jira)
 
