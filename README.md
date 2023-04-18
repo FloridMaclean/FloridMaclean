@@ -22,7 +22,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![C++](ç](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
